@@ -19,7 +19,7 @@ const OrdersFilter = () => {
     const status = event.currentTarget?.value;
     setSelectedStatus(status); // Update the selected status state
     if (status === "/") {
-      router.push("/");
+      router.push("/dashboard/orders");
     } else {
       router.push(`/dashboard/orders/ordersByStatus/${status}`);
     }
