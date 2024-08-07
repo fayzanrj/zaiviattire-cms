@@ -31,7 +31,7 @@ Steps to install project dependencies and get the project running locally.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/fayzanrj/cinelux-dashboard.git
+   git clone https://github.com/fayzanrj/zaiviattire-cms.git
 
    ```
 
